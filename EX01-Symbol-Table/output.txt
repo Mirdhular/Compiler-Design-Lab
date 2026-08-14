@@ -1,0 +1,21 @@
+Enter your choice
+1.Create
+2.Insert
+3.Modify
+4.Search
+5.Display
+6.Exit:1
+
+Enter the no. of entries:3
+
+Enter the variable and the value:
+AIM 45
+ASK 34
+BALL 56
+
+The table after creation is:
+
+VARIABLE        VALUE
+AIM             45
+ASK             34
+BALL            56
