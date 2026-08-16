@@ -1,0 +1,8 @@
+Enter an arithmetic expression: a+b*c
+Valid arithmetic expression
+
+Enter an arithmetic expression: (10+20)*30
+Valid arithmetic expression
+
+Enter an arithmetic expression: a+*b
+Invalid arithmetic expression
