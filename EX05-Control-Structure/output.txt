@@ -1,0 +1,7 @@
+Experiment 5: C Control Structure Syntax
+
+Input:
+if (x < 5) { y = 10; }
+
+Output:
+Valid control structure syntax.
