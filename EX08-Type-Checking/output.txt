@@ -1,0 +1,19 @@
+Experiment 8: Type Checking using LEX and YACC
+
+Test 1:
+Input:
+int a;
+float b;
+a = b + 1;
+
+Output:
+Type mismatch
+
+Test 2:
+Input:
+int a;
+int b;
+a = b + 1;
+
+Output:
+No type mismatch
