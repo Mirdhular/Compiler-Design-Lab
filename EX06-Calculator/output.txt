@@ -1,0 +1,13 @@
+Experiment 6: Implementation of Calculator using LEX and YACC
+
+Input:
+2+2
+
+Output:
+Answer: 4
+
+Input:
+10+5*2
+
+Output:
+Answer: 20
