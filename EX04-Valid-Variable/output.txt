@@ -1,0 +1,9 @@
+Experiment 4: Valid Variable Recognition
+
+Test 1
+Input: abc123
+Output: Valid variable
+
+Test 2
+Input: 123abc
+Output: Invalid variable
