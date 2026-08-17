@@ -1,0 +1,9 @@
+Experiment 7: Generate Three Address Code
+
+Input:
+a = b + c * d
+
+Output:
+t1 = c * d
+t2 = b + t1
+a = t2
