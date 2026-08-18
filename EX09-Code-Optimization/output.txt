@@ -1,0 +1,15 @@
+Experiment 9: Code Optimization
+
+Input Three Address Code:
+a=2+3
+b=x*1
+c=y+0
+d=z-0
+e=p/1
+
+Optimized Code:
+a=5
+b=x
+c=y
+d=z
+e=p
